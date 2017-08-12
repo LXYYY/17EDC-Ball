@@ -1,0 +1,3 @@
+/home/pi/Desktop/New/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/New/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/New/CMakeFiles/test.dir
